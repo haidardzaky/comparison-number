@@ -2,6 +2,10 @@ html{
   background-color: #6BD9C3;
 }
 
+h1{
+  text-align: center;
+}
+
 input{
   border-radius: 7%;
   border-color: black;
